@@ -10,4 +10,7 @@
 
 ## Reflexión final (5-10 líneas)
 - ¿En qué te ayudó la IA y en qué se equivocó?
+Solicite un analisis de las severidades encontradas para poder respaldar mi justificacion para los umbrales establecidos.
+
 - ¿Qué aprendiste a verificar que antes darías por bueno?
+Hize una revision de los reportes de errores para comprobar que la informacion dada por la IA es consistente con la evidencia.
