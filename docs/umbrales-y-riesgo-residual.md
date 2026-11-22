@@ -31,9 +31,9 @@
 | workflow_dispatch |Ejecución manual | Auditoría, verificación de parches y control operativo.                    | 
 
 ## 4. Riesgos residuales (lo que queda abierto después de corregir)
-| # | Riesgo | Origen (hallazgo/huella) | Por qué no se corrige ahora | Control compensatorio | Dueño | Revisión |
-|---|--------|--------------------------|-----------------------------|-----------------------|-------|----------|
-| 1 | | | | | | |
+| # | Riesgo    | Origen (hallazgo/huella) | Por qué no se corrige ahora             | Control compensatorio | Dueño | Revisión |
+|---|-----------|--------------------------|-----------------------------------------|-----------------------|-------|----------|
+| 1 |Python 3.9 |                          |porque las librerías viejas lo necesitan.| Mantener vigilancia   |       |          |
 
 ## 5. Excepciones aprobadas
 | Herramienta | ID | Justificación | Responsable | Vence |
